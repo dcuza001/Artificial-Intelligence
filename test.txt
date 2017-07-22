@@ -1,0 +1,9 @@
+Script started on Thu 10 Dec 2015 06:10:07 PM PST
+~
+dcuza001@well $ close
+bash: close: command not found
+~
+dcuza001@well $ exit
+exit
+
+Script done on Thu 10 Dec 2015 06:10:14 PM PST
